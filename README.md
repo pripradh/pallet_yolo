@@ -24,3 +24,6 @@ pip install tensorflow-gpu==1.15.0<br/>
 pip install labelImg<br/>
 pip install imageai<br/>
 
+-------------------------------------------------------------------------------------------------
+command to label images<br/>
+labelImg path_to_images/
