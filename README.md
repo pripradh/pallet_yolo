@@ -1,6 +1,6 @@
 DETECT PALLETS IN NEW IMAGE
 ----------------------------------------------------
-clone or download repo https://github.com/sai544042/pallet.git<br/>
+clone or download repo https://github.com/pripradh/pallet_yolo.git<br/>
 cd dectect<br/>
 If pretrained model exists place model in model folder else download it from https://drive.google.com/file/d/1-YC3uNKbYsvH6O7A1UuX1RMoZV_xHKF4/view?usp=sharing<br/>
 run command<br/>
